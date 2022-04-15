@@ -1,4 +1,5 @@
 # How to Install Login app template
+![Uploading image.png…]()
 
 ### Step 1
 Create a SP list with the following name: **Log in**
